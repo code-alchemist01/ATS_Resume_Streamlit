@@ -50,6 +50,9 @@ Bu uygulama, CV'lerinizi ATS (Applicant Tracking System) uyumluluğu açısında
 - "CV Yükleme" bölümünden PDF veya DOCX dosyanızı seçin
 - Dosya başarıyla yüklendiğinde yeşil onay mesajı görünür
 
+<img width="1876" height="855" alt="Ekran görüntüsü 2025-09-25 190913" src="https://github.com/user-attachments/assets/5a557756-d19d-4697-bf37-e7af5dc911fa" />
+
+
 ### 3. Analiz Türünü Seçin
 
 #### 🎯 ATS Uyumluluk Analizi
@@ -57,6 +60,13 @@ Bu uygulama, CV'lerinizi ATS (Applicant Tracking System) uyumluluğu açısında
 - Güçlü ve zayıf yönlerinizi görün
 - Eksik bölümleri tespit edin
 - İyileştirme önerileri alın
+
+  <img width="1886" height="825" alt="Ekran görüntüsü 2025-09-25 191008" src="https://github.com/user-attachments/assets/0642457f-8844-4d1c-98a2-3386f80031ef" />
+
+  <img width="1892" height="870" alt="Ekran görüntüsü 2025-09-25 191050" src="https://github.com/user-attachments/assets/ff980c63-29a2-4f70-b6b3-d8c3138fafd1" />
+
+  <img width="1906" height="857" alt="Ekran görüntüsü 2025-09-25 191110" src="https://github.com/user-attachments/assets/569d0580-2408-45f3-be27-7dec0f4ba728" />
+
 
 #### 🔍 İş İlanı Eşleştirme
 - İş ilanı metnini yapıştırın
